@@ -1,0 +1,14 @@
+/*.navbar .first {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.left {
+  text-align: left;
+  color: dodgerblue;
+}
+
+.right {
+  text-align: right;
+}*/
